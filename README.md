@@ -28,4 +28,4 @@ Commands:
 - restart: clears the board and starts a new game
 
 
-<a href="http://tinypic.com?ref=2zg6q1x" target="_blank"><img src="http://i67.tinypic.com/2zg6q1x.jpg" border="0" style="width:450px;height:600px;"></a>
+<a href="http://tinypic.com?ref=2zg6q1x" target="_blank"><img src="http://i67.tinypic.com/2zg6q1x.jpg" border="0" width="400"height="650"></a>
