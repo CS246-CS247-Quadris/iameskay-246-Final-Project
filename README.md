@@ -6,10 +6,12 @@ Build game by typing 'make'
 Run game by typing './quadris' followed by command line options
 
 Command Line Options:
-- scriptfile file: generates block based on file
-- startlevel x: starts game on level x
-- seed x: sets seed as x
-- text: runs game in text mode only
+- -scriptfile file: generates block based on file
+- -startlevel x: starts game on level x
+- -seed x: sets seed as x
+- -text: runs game in text mode only
+
+Example: ./quadris -text -scriptfile blocks.txt
 
 Commands:
 - left: moves block one unit left
