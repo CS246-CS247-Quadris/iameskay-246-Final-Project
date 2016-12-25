@@ -27,4 +27,4 @@ Example:
 * sequence file: executes the sequence of commands found in file
 * restart: clears the board and starts a new game
 
-<img src="http://tinypic.com/view.php?pic=2zg6q1x&s=9#.WEok9qIrIp8"></img>
+<img src="http://i67.tinypic.com/2zg6q1x.jpg" alt="quadris_screenshot" style="width:355px;height:591px;"></img>
