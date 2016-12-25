@@ -1,4 +1,5 @@
-## Final project for CS246 Fall 2016 by Simran Kaur and Fatima Taj
+# Final project for CS246 Fall 2016 
+## by Simran Kaur and Fatima Taj
 
 Quadris is a Latinization of the game of Tetris. Unlike Tetris, Quadris is not real-time. It gives the user as much time as needed to drop a block. 
 
@@ -10,7 +11,7 @@ Build game by typing 'make'
 
 Run game by typing ./quadris followed by command line options
 
-# Command Line Options:
+## Command Line Options:
 * -scriptfile file: generates block based on file
 * -startlevel x: starts game on level x
 * -seed x: sets seed as x
@@ -19,7 +20,7 @@ Run game by typing ./quadris followed by command line options
 Example: 
 ./quadris -text -scriptfile blocks.txt
 
-# Commands:
+## Commands:
 * left: moves block one unit left
 * right: moves block one unit right
 * down: moves block one unit down
@@ -33,7 +34,7 @@ Example:
 * sequence file: executes the sequence of commands found in file
 * restart: clears the board and starts a new game
 
-# Levels:
+## Levels:
 * 0: Takes blocks from sequence.txt or file specified on command line
 * 1: Z and S blocks produced with probability 1/12 each, all other blocks produced with probability 1/6
 * 2: All blocks produced with equal probability
