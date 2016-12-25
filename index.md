@@ -33,6 +33,7 @@ Example:
 * random: relevant only during levels 3 and 4, this command restores randomness in these levels
 * sequence file: executes the sequence of commands found in file
 * restart: clears the board and starts a new game
+* rename oldname newname: renames command oldname to newname
 
 ## Levels:
 * 0: Takes blocks from sequence.txt or file specified on command line
