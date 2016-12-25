@@ -1,0 +1,8 @@
+title: Quadris
+description: Final project for CS246
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
