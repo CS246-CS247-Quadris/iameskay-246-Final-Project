@@ -1,4 +1,5 @@
 # Final project for CS246 Fall 2016 
+
 ## by Simran Kaur and Fatima Taj
 
 Quadris is a Latinization of the game of Tetris. Unlike Tetris, Quadris is not real-time. It gives the user as much time as needed to drop a block. 
