@@ -5,8 +5,6 @@ Quadris is a Latinization of the game of Tetris. Unlike Tetris, Quadris is not r
 
 This project uses many OOP principles such as polymorphism, encapsulation, inheritance, and abstraction. The design uses abstract base classes to organize components such as levels and blocks. The Factory Method design pattern has also been implemented to generate different blocks at different levels.
 
-<a href="http://tinypic.com?ref=2zg6q1x" target="_blank"><img src="http://i67.tinypic.com/2zg6q1x.jpg" border="0" width="400"height="650"></a>
-
 Build game by typing 'make'
 
 Run game by typing ./quadris followed by command line options
